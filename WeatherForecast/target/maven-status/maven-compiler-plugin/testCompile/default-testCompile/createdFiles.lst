@@ -1,0 +1,4 @@
+com\weather\forecast\weatherforecast\BaseTestCase.class
+com\weather\forecast\weatherforecast\controller\WeatherForecastControllerTest.class
+com\weather\forecast\weatherforecast\service\impl\WeatherForecastServiceTest.class
+com\weather\forecast\weatherforecast\WeatherforecastApplicationTests.class

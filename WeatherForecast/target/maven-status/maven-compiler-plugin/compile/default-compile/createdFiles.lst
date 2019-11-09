@@ -1,0 +1,5 @@
+com\weather\forecast\weatherforecast\WeatherforecastApplication.class
+com\weather\forecast\weatherforecast\service\impl\WeatherForecastServiceImpl.class
+com\weather\forecast\weatherforecast\service\WeatherForecastService.class
+com\weather\forecast\weatherforecast\controller\WeatherForecastController.class
+com\weather\forecast\weatherforecast\data\WeatherData.class
