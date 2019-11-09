@@ -2,5 +2,5 @@
 
 
 3 day weather - http://localhost:8080/forecast/forecast/general/3?city=bangalore
-1- day weather - http://localhost:8080/forecast/forecast/highTemp?city=bangalore
+1- day weather - http://localhost:8080/forecast/forecast/general?city=bangalore
 
